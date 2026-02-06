@@ -1,0 +1,8 @@
+# Ignore large files
+data/*
+*.db
+*.csv  # Except if you want to commit small ones
+__pycache__/
+*.pyc
+reports/*.xlsx
+reports/*.pptx
