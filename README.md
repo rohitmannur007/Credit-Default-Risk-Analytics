@@ -47,7 +47,7 @@ Explore the dashboard for visual insights:
 
 View Dashboard: [https://public.tableau.com/app/profile/rohit.mannur3130/viz/CreditDefaultRiskAnalytics/CreditDefaultRiskAnalyticsDashboard](https://public.tableau.com/app/profile/rohit.mannur3130/viz/CreditDefaultRiskAnalytics/CreditDefaultRiskAnalyticsDashboard)
 
-![Dashboard Screenshot](dashboard_screenshot.png)  <!-- Upload your dashboard image to the repo as dashboard_screenshot.png for this to display -->
+![Dashboard Screenshot](https://github.com/rohitmannur007/Credit-Default-Risk-Analytics/blob/main/Credit%20Default%20Risk%20Analytics%20Dashboard.png)  <!-- Upload your dashboard image to the repo as dashboard_screenshot.png for this to display -->
 
 ## Alignment to TransUnion JD
 - **Must-Haves**: Quantitative degree equivalent (stats/math); strong analytical/problem-solving; Python (as R alternative) + SQL/Excel proficiency; communication via dashboard/PPT.
